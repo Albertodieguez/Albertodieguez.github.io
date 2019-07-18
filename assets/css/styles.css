@@ -1,74 +1,81 @@
 .navbar.navbar-light.navbar-expand-md.Menu {
-  background: linear-gradient(120deg, #e1fffd, #9cf5fb);
+    background: linear-gradient(120deg, #e1fffd, #9cf5fb);
 }
 
 body {
-  background: linear-gradient(120deg, #e1fffd, #9cf5fb);
+    background: linear-gradient(120deg, #e1fffd, #9cf5fb);
 }
 
 .portada {
-  padding-top: 57px;
-  background: linear-gradient(120deg, #e1fffd, #9cf5fb);
+    padding-top: 57px;
+    background: linear-gradient(120deg, #e1fffd, #9cf5fb);
 }
 
 
 /*  div centrado do pasmon   */
 
 
-
 /*  citas   */
+
 .centrado {
-	position: absolute;
-	top: 20%;
-	right: 30%;
-	
+    position: absolute;
+    top: 20%;
+    right: 30%;
 }
+
 .centrado1 {
-	position: absolute;
-	top: 5%;
-	
+    position: absolute;
+    top: 5%;
 }
+
 .centrado2 {
-	position: absolute;
-	top: 40%;
-	
-}
-.citas{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 36px;
-	font: italic;
-	
+    position: absolute;
+    top: 40%;
 }
 
-.citas2{
-	font-size: 20px;
-	color: white;
-	font: bold;
+.citas {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: 36px;
+    font: italic;
 }
 
-.fondocitas{
-	background-color: dimgray;
+.citas2 {
+    font-size: 20px;
+    color: white;
+    font: bold;
 }
 
-.citas_1{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 26px;
-	font: italic;
-	
+.fondocitas {
+    background-color: dimgray;
 }
-.citas2_1{
-	font-size: 20px;
-	color: white;
-	font: bold;
+
+.citas_1 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: 26px;
+    font: italic;
 }
-.citas_2{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 26px;
-	font: italic;
-	
+
+.citas2_1 {
+    font-size: 20px;
+    color: white;
+    font: bold;
 }
-.citas2_2{
-	font-size: 20px;
-	color: white;
-	font: bold;
+
+.citas_2 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: 26px;
+    font: italic;
+}
+
+.citas2_2 {
+    font-size: 20px;
+    color: white;
+    font: bold;
+}
+
+
+/*  css portafolio  */
+
+.padding-portafolio {
+    padding-top: 50px;
 }
